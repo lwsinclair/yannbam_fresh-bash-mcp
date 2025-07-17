@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-yannbam-fresh-bash-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-yannbam-fresh-bash-mcp)
+
 # Bash MCP (Master Control Program)
 
 A TypeScript application that allows Claude to safely execute bash commands with security safeguards. This project implements the Model Context Protocol (MCP) to provide a secure interface for executing bash commands from AI assistants like Claude.
